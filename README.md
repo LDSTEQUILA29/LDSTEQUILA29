@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LDSTEQUILA29
 - 👀 I’m interested in ... Learing coding for game development
-- 🌱 I’m currently learning ... I'm learn Javascript
+- 🌱 I’m currently learning ... I'm learning Javascript
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... brayantorres1738@gmail.com
 
